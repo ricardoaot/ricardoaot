@@ -1,12 +1,12 @@
-## 💫 About Me:
-👋 Hi there! I'm Ricardo (Ric for friends)
+##  About Me:
+👋 Hi there! I'm Ricardo (Ric for friends) <br/>
 🚀 A passionate developer and tech enthusiast
 
 ### 💡 Who I Am
-- I am kind, collaborative, empathetic, and have a great sense of humor.
-- I love coding and learning new things.
-- I also enjoy music, singing, and dancing. Currently, I am taking salsa and bachata classes. 
-- I also enjoy working out at the gym and taking walks in green spaces to reconnect with myself.
+- 💫 I am kind, collaborative, empathetic, and have a great sense of humor.
+- 💻 I love coding and learning new things.
+- 🕺 I also enjoy music, singing, and dancing. Currently, I am taking salsa and bachata classes. 
+- 🏋🏽 I also enjoy working out at the gym and taking walks in green spaces to reconnect with myself.
 
 ### 🛠️ My Skills
 - Programming Languages: JavaScript, TypeScript, PHP
