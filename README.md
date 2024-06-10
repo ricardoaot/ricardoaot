@@ -3,7 +3,10 @@
 🚀 A passionate developer and tech enthusiast
 
 ### 💡 Who I Am
-I am kind, collaborative, empathetic, and have a great sense of humor. <br/> I love coding and learning new things. <br/> I also enjoy music, singing, and dancing. Currently, I am taking salsa and bachata classes. <br/> I also enjoy working out at the gym and taking walks in green spaces to reconnect with myself.
+- I am kind, collaborative, empathetic, and have a great sense of humor.
+- I love coding and learning new things.
+- I also enjoy music, singing, and dancing. Currently, I am taking salsa and bachata classes. 
+- I also enjoy working out at the gym and taking walks in green spaces to reconnect with myself.
 
 ### 🛠️ My Skills
 - Programming Languages: JavaScript, TypeScript, PHP
@@ -21,10 +24,10 @@ I am kind, collaborative, empathetic, and have a great sense of humor. <br/> I l
 - Kubernetes, SOLID, Hexagonal Architecture
 
 ### 📫 Get in Touch
-Email: ricardoaot@gmail.com
+- Email: ricardoaot@gmail.com
 
 ### 🎯 My Future Goals
-I aim to collaborate on interesting and challenging projects that help me grow as a developer and contribute to the tech community.
+- I aim to collaborate on interesting and challenging projects that help me grow as a developer and contribute to the tech community.
 
 <!--
 **ricardoaot/ricardoaot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
